@@ -16,7 +16,7 @@ def pioneer
   pioneer = {
     :name => 'Grace Hopper',
   }
-  pioneer[:name]
+  pioneer
 end
 
 def id_generator
